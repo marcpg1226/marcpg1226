@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
+![](https://pokemon.farlow.dev/game)
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raimonizard/raimonizard/output/pacman-contribution-graph-dark.svg">
