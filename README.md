@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-![GitHub Stats](https://profile-card-ten-green.vercel.app/api/card?username=octocat&type=dragon)
 
 
 <picture>
