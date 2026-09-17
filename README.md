@@ -4,9 +4,6 @@
 | [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=marcpg1226&rank_icon=github&custom_title=Les%20Meves%20Estad%C3%ADstiques&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=marcpg1226&rank_icon=github&custom_title=Les%20Meves%20Estad%C3%ADstiques&show_icons=true&include_all_commits=true&theme=shadow_blue) | [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&custom_title=Les%20Meves%20Estad%C3%ADstiques&langs_count=6&display_format=percent&theme=shadow_blue)](https://wakatime.com/@alan) | 
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=marcpg1226&rank_icon=github&custom_title=Les%20Meves%20Estad%C3%ADstiques&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=marcpg1226&rank_icon=github&custom_title=Les%20Meves%20Estad%C3%ADstiques&show_icons=true&include_all_commits=true&theme=shadow_blue)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&custom_title=Les%20Meves%20Estad%C3%ADstiques&langs_count=6&display_format=percent&theme=shadow_blue)](https://wakatime.com/@alan)
 
 Here are some ideas to get you started:
 
