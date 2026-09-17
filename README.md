@@ -2,7 +2,7 @@
 
 <!--
 **marcpg1226/marcpg1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[(https://github-stats-extended.vercel.app/api?username=marcpg1226)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=marcpg1226&rank_icon=github&custom_title=Les%20Meves%20Estad%C3%ADstiques&show_icons=true&include_all_commits=true&theme=shadow_blue)](https://github-stats-extended.vercel.app/api?username=marcpg1226&rank_icon=github&custom_title=Les%20Meves%20Estad%C3%ADstiques&show_icons=true&include_all_commits=true&theme=shadow_blue)
 
 Here are some ideas to get you started:
 
