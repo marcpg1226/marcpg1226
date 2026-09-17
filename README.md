@@ -2,7 +2,7 @@
 
 <!--
 **marcpg1226/marcpg1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=marcpg1226)](https://github.com/stats-organization/github-stats-extended)
+[(https://github-stats-extended.vercel.app/api?username=marcpg1226)](https://github.com/stats-organization/github-stats-extended)
 
 Here are some ideas to get you started:
 
