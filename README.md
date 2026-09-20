@@ -20,8 +20,12 @@
 
 
 🎓 I’m currently studying multi-platform application development.
+
 🌱 I’m learning and intereseted in: GitHub, Python, Markdown, Kotlin, Google Collab, PHP, C#...
+
 👯 I’m looking forward to collaborate in python or other languages.
+
 🎮 I'm thrilled to learn Unity and Android programming.
+
 💬 Ask me about Python or whatever.
 
